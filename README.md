@@ -1,4 +1,5 @@
-#Sample Integration of CDI and Jersey on Tomcat 7
+# tomcat7-cdi-jersey
+## Sample Integration of CDI and Jersey on Tomcat 7
 
 This is a sample intrgration for CDI and Jersey, running on Tomcat 7.
 
